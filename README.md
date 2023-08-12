@@ -11,7 +11,7 @@ Projeto Multidisciplinar Integrador - ADS- CESUSC - 2023
 
 🎁 **Proposta de Valor:** 
 
-🧑‍💻👩‍💻 **Equipe:** Barbara, Guilherme, Rayner, Róger (ADS12) 2023
+🧑‍💻👩‍💻 **Equipe:** Guilherme, Rayner, Róger,Vinicyus (ADS22) 2023
 
 🛠️ **Recursos/Tecnologias Utilizados:** Em andamento...
 
