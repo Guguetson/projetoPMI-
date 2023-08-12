@@ -4,16 +4,16 @@ Projeto Multidisciplinar Integrador - ADS- CESUSC - 2023
 ## Mini Take and Go
 
 
-🙁 **Problema:**  *Imagine não ter que retirar o carro da garagem, dirigir por quilômetros, enfrentar filas enormes no supermercado... Em vez disso, em poucos minutos, você pode deslocar-se até a MINI, fazer suas compras e voltar ao conforto do seu lar, sem estresse ou complicações;*
+🙁 **Problema:** *Necessidade de fazer compras em horários não comerciais e tempo desperdiçado com deslocamento até um supermercado;*
 
 
 🙂 **Nicho:** *Moradores de prédios e condomínios de Florianópolis;*
 
-🎁 **Proposta de Valor:** *Nosso objetivo é proporcionar um novo modo de fazer compras, onde o tempo dos nossos clientes é a nossa maior prioridade;*
+🎁 **Proposta de Valor:** *Funcionamento 24h/dia, 7 dias na semana, mais comodidade e facilidade para nossos clientes.*
 
 🧑‍💻👩‍💻 **Equipe:** *Guilherme, Rayner, Róger, Vinicyus (ADS22) 2023*
 
-🛠️ **Recursos/Tecnologias Utilizados:** *HTML5, CSS, GIT, GITHUB, GitHub Desktop, Visual Studio Code...*
+🛠️ **Recursos/Tecnologias Utilizados:** *HTML5, CSS, GIT, GITHUB, VS Code...*
 
 💡 PMI I
 -------------------
