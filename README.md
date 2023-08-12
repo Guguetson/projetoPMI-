@@ -9,7 +9,7 @@ Projeto Multidisciplinar Integrador - ADS- CESUSC - 2023
 
 🙂 **Nicho:** *Moradores de prédios e condomínios de Florianópolis;*
 
-🎁 **Proposta de Valor:** *Funcionamento 24h/dia, 7 dias na semana, mais comodidade e facilidade para nossos clientes.*
+🎁 **Proposta de Valor:** *Funcionamento 24h/dia, 7 dias na semana, mais comodidade e facilidade para os nossos clientes.*
 
 🧑‍💻👩‍💻 **Equipe:** *Guilherme, Rayner, Róger, Vinicyus (ADS22) 2023*
 
