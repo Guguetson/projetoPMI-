@@ -9,9 +9,9 @@ Projeto Multidisciplinar Integrador - ADS- CESUSC - 2023
 
 🙂 **Nicho:** *Moradores de prédios e condomínios de Florianópolis;*
 
-🎁 **Proposta de Valor:** *Nosso objetivo era proporcionar um novo modo de fazer compras, onde o tempo dos nossos clientes é a nossa maior prioridade;*
+🎁 **Proposta de Valor:** *Nosso objetivo é proporcionar um novo modo de fazer compras, onde o tempo dos nossos clientes é a nossa maior prioridade;*
 
-🧑‍💻👩‍💻 **Equipe:** *Guilherme, Rayner, Róger,Vinicyus (ADS22) 2023*
+🧑‍💻👩‍💻 **Equipe:** *Guilherme, Rayner, Róger, Vinicyus (ADS22) 2023*
 
 🛠️ **Recursos/Tecnologias Utilizados:** *HTML5, CSS, GIT, GITHUB, GitHub Desktop, Visual Studio Code...*
 
