@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <title>Landing Page</title>
+  </head>
+  <body>
+    <header class="header">
+      <nav class="header__navbar">
+        <ul class="header__navbar__list">
+          <li><a href="#home">Página inicial</a></li>
+          <li><a href="#about">Sobre</a></li>
+          <li><a href="#info">Informação</a></li>
+          <li><a href="#contact">Contato</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home">
+        <div class="home__hero-image">
+          <div class="home__hero-content">
+            <h1 class="home__hero-title">Já pensou ter tudo o que você precisa em casa?</h1>
+            <p>
+                Com a MINI, nós entregamos a você a opção de utilizar seu tempo da forma que preferir, sem precisar gastá-lo no supermercado. 
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="about">
+        <div class="wrapper__container">
+          <div>
+            <h2 class="subtitle">Sobre a MINI</h2>
+            <p class="description">
+                Quando fundamos a MINI, percebemos que estávamos criando algo muito mais do que um simples mercado de condomínio. Nosso objetivo era proporcionar um novo modo de fazer compras, onde o tempo dos nossos clientes é a nossa maior prioridade.
+            </p>
+          </div>
+          <img src="https://static.wixstatic.com/media/2d8ecb_a08b52d5316e4c8194a6519043a88545~mv2.jpeg/v1/fill/w_942,h_752,al_c,q_85,enc_auto/2d8ecb_a08b52d5316e4c8194a6519043a88545~mv2.jpeg">
+        </div>
+      </section>
+
+      <section id="info">
+        <div class="info__container">
+          <img alt="Texto alternativo" src="https://static.wixstatic.com/media/2d8ecb_67c0b42cd43b48ae916fd92fd66cc630~mv2.jpg/v1/fill/w_980,h_1428,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2d8ecb_67c0b42cd43b48ae916fd92fd66cc630~mv2.jpg" />
+          <div>
+            <h2 class="subtitle">Nossa Proposta</h2>
+            <p class="description">
+                Com a MINI, nós entregamos a você a opção de utilizar seu tempo da forma que preferir, sem precisar gastá-lo no supermercado. Estamos comprometidos em tornar sua vida mais fácil e prática, para que você possa aproveitar ao máximo o seu tempo.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact">
+        <div class="contact__wrapper">
+          <h2>Contato</h2>
+          <form class="contact__form">
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name" placeholder="Insira seu nome" />
+
+            <label for="email">Email:</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="Insira seu email"
+            />
+
+            <label for="cpf">Assunto:</label>
+            <input              
+              id="cpf"
+              name="cpf"
+              placeholder="Insira o assunto"
+            ></input>
+
+            <label for="phone">Mensagem:</label>
+            <input
+              id="phone"
+              name="phone"
+              placeholder="Digite aqui sua mensagem..."
+            ></input>
+
+            <input type="submit" value="ENVIAR" />
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>&copy; 2023 PMI Class. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
