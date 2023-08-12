@@ -18,9 +18,9 @@ Projeto Multidisciplinar Integrador - ADS- CESUSC - 2023
 💡 PMI I
 -------------------
 
-🔗 **url github:** 
+🔗 **url github:** https://github.com/Guguetson/projetoPMI-
 
-🛬 **url landpage:** 
+🛬 **url landpage:** https://guguetson.github.io/projetoPMI-/
 
 🤝 **url Modelo Negócio (imagem):**
 
