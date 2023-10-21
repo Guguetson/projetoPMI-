@@ -1,61 +1,97 @@
-/* Reset default margin and padding for elements */
-body,
-h1,
-h2,
-p,
-ul,
-li,
-form {
-  margin: 0;
-  padding: 0;
-}
-
-/* Set basic styles */
-body {
-  font-family: Roboto, sans-serif;
-  line-height: 1.5;
-}
-
-.header {
-  background-color: #3db4f6;
-  color: #fff;
-  padding: 1.5rem;
-}
-
-.header__navbar {
-  display: flex;
-  justify-content: flex-end;
- 
-}
-
-.header__navbar__list {
-  display: flex;
-  width: 25rem;
-  justify-content: space-between;
-  list-style: none;
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
   text-decoration: none;
-  color: #fff;
+}
+.cabecalho{
+  display: flex;
+  align-items: center; 
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px;
+  background-color:  #3db4f6;
+  border-bottom: 3px solid #000000;
+  margin: auto;
+}
+
+.cabecalho-menu{
+  display: flex;
+  gap: 35px;
+  float: right;
+}
+
+.cabecalho-menu-item{
+  font-family:'Sarala',sans-serif;
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+  font-size: 21px;
+  text-decoration: none;
+}
+
+.cabecalho-menu-item:hover{
+  color: rgb(255, 255, 255);
+}
+
+#main-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#title {
+  text-align: center;
+  font-size: 25px;
+  color: black;
+  margin-top: 100px;
+}
+  .input-text , .input-email , .input-date {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 3px;
   }
   
-.header__navbar__list a {
-  text-decoration: none;
-  color: #fff;
-  font-size: 1rem;
-}
+  .input-radio {
+    margin-right: 5px;
+    font-size: 10px;
+  }
+  
+  .input-checkbox {
+    margin-right: 5px;
+  }
+    
+  /*textarea {  
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+  } */
+  
+  /*label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 5px;
+  }  */
 
+  .home__hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
+      url("img/mini-foto-2.jpg");
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: #fff;
+    border: 1px solid rgb(0, 0, 0);
+    
 
-
-.home__hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
-    url("https://static.wixstatic.com/media/2d8ecb_0ec7c6b15b6b4bb3bc0a73792a76e302~mv2.jpeg/v1/fill/w_980,h_507,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2d8ecb_0ec7c6b15b6b4bb3bc0a73792a76e302~mv2.jpeg");
-  height: 700px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  color: #fff;
-
- .home__hero-content {
+  .home__hero-content {
     padding: 20px;
     max-width: 600px;
     text-align: center;
@@ -81,6 +117,8 @@ body {
 .wrapper__container img {
   width: 600px;
   height: 400px;
+  border: 1px solid rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #000000;
 }
 
 .info__container {
@@ -95,6 +133,12 @@ body {
 .info__container img {
   width: 600px;
   height: 400px;
+  border: 1px solid rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #000000;
+}
+
+.imagem-corpo{
+  border-radius: 25px;
 }
 
 .description {
@@ -108,41 +152,18 @@ body {
   font-size: 2rem;
 }
 
-.contact__wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 6rem;
-}
 
-.contact__form {
-  display: flex;
-  width: 50%;
-  flex-direction: column;
-  height: 450px;
-}
-
-.footer {
-  background-color: #3db4f6;
-  color: #fff;
-  padding: 0.7rem;
+.footer{
+  font-family:'Sarala',sans-serif;
+  font-size: 15px;
+  font-weight: 100px;
+  background-color: #3db4f6 ;
+  color: #000000;
+  padding: 1px;
   text-align: center;
+  border-top: 1px solid #000000;
+  margin-top: 100px;
 }
-
-input {
-  border: 1px solid #ccc;
-  margin: 8px 0;
-  border-radius: 4px;
-  padding: 12px 20px;
+.footer p{
+  margin-top: 15px;
 }
-
-input[type="submit"] {
-  background-color: #3db4f6;
-  color: #fff;
-  width: 150px;
-  }
-  
-  input:hover[type="submit"] {
-    background-color: #58b09c;
-    color: #092433;
-  }
