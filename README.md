@@ -27,7 +27,7 @@ Projeto Multidisciplinar Integrador - ADS- CESUSC - 2023
 
 ⌨️ **url Protótipo (Figma):** https://www.figma.com/file/NnsU7i3ua3TRxtLkYQJfKG/Prot%C3%B3tipo-naveg%C3%A1vel-APP-PMI?type=design&node-id=0%3A1&mode=design&t=Wi4GQsYcVJkuVpxM-1
 
-📝 **url Modelagem Sistema:** 
+📝 **url Modelagem Sistema:** https://github.com/Guguetson/projetoPMI-II/tree/main/diagramas
 
 💻 PMI III
 -------------------
