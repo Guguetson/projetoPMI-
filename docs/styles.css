@@ -76,7 +76,7 @@ body {
   height: 400px;
   box-shadow: 5px 5px 5px 5px #616161;
   border-radius: 10px;
-  border-left: 20px;
+  
 }
 
 .description {
@@ -93,7 +93,6 @@ body {
 
 .info__container {
   display: flex;
-  justify-content: center;
   align-items: center;
   height: 600px;
   background-color: #3db4f6;
@@ -105,7 +104,7 @@ body {
 
 .footer{
   font-size: 15px;
-  font-weight: 100px;
+  font-weight: 100;
   background-color: #ffffff ;
   color: #000000;
   padding: 1px;
@@ -118,6 +117,6 @@ body {
 }
 
 .video-corpo{
-width: 300px; ;
-height: 300px;;
+width: 300px;
+height: 300px;
 }
