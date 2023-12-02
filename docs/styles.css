@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px;
+  background-color: #3db4f6;
+  border-bottom: 1px solid #000000;
+  margin: auto;
+}
+
+.cabecalho-menu {
+  display: flex;
+  gap: 35px;
+  float: right;
+}
+
+.cabecalho-menu-item {
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+  font-size: 21px;
+  text-decoration: none;
+}
+
+.cabecalho-menu-item:hover {
+  color: rgb(255, 255, 255);
+}
+
+.home__hero-image {
+  position: relative;
+  height: 700px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
+    url("img/mini-foto-2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  border: 1px solid rgb(0, 0, 0);
+  overflow: hidden;
+}
+
+.home__hero-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+
+.home__hero-title {
+  font-size: 3rem;
+  margin-bottom: 50px;
+}
+
+.wrapper__container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 600px;
+  padding: 40px;
+  border-top: 1px solid #000000;
+}
+
+.wrapper__container img {
+  width: 600px;
+  height: 400px;
+  box-shadow: 5px 5px 5px 5px #616161;
+  border-radius: 10px;
+  border-left: 20px;
+}
+
+.description {
+  width: 35rem;
+  text-align: justify;
+  margin: 1rem;
+}
+
+.subtitle {
+  margin: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.info__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  background-color: #3db4f6;
+  color: #fff;
+  padding: 40px;
+  justify-content: space-around;
+  border-top: 1px solid #000000;
+}
+
+.footer{
+  font-size: 15px;
+  font-weight: 100px;
+  background-color: #ffffff ;
+  color: #000000;
+  padding: 1px;
+  text-align: center;
+  border-top: 1px solid #000000;
+}
+.footer p{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.video-corpo{
+width: 300px; ;
+height: 300px;;
+}
