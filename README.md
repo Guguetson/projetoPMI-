@@ -1,4 +1,4 @@
-Projeto Multidisciplinar Integrador - ADS- CESUSC - 2023
+Projeto Multidisciplinar Integrador - ADS- CESUSC - (2023/2024)
 
 -------------------
 ## Mini Take and Go
