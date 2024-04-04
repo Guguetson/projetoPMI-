@@ -1,4 +1,4 @@
-Projeto Multidisciplinar Integrador - ADS- CESUSC - (2023/2024)
+Projeto Multidisciplinar Integrador I - IV - ADS- CESUSC - (2023/2024)
 
 -------------------
 ## Mini Take and Go
@@ -7,13 +7,13 @@ Projeto Multidisciplinar Integrador - ADS- CESUSC - (2023/2024)
 🙁 **Problema:** *Necessidade de fazer compras em horários não comerciais e tempo desperdiçado com deslocamento até um supermercado;*
 
 
-🙂 **Nicho:** *Moradores de prédios e condomínios de Florianópolis;*
+🙂 **Nicho:** *Moradores de prédios, condomínios e coliving de Florianópolis;*
 
-🎁 **Proposta de Valor:** *Funcionamento 24h/dia, 7 dias na semana, mais comodidade e facilidade para os nossos clientes.*
+🎁 **Proposta de Valor:** *Aplicativo exclusivo, conectando clientes ao mini mercado digitalmente, oferecendo mais comodidade, agilidade e praticidade para os nossos clientes.*
 
-🧑‍💻👩‍💻 **Equipe:** *Guilherme, Rayner, Róger, Vinicyus (ADS22) 2023*
+🧑‍💻👩‍💻 **Equipe:** *Guilherme, Rayner, Róger, Vinicyus*
 
-🛠️ **Recursos/Tecnologias Utilizados:** *HTML5, CSS, GIT, GITHUB, VS Code...*
+🛠️ **Recursos/Tecnologias Utilizados:** *Em andamento...*
 
 💡 PMI I
 -------------------
