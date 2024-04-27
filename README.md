@@ -18,16 +18,16 @@ Projeto Multidisciplinar Integrador I - IV - ADS- CESUSC - (2023/2024)
 💡 PMI I
 -------------------
 
-🔗 **url github:**  [GitHub](https://github.com/guilhermedcl/projetoPMI-II) 
+🔗 **url github:**  [GitHub](https://github.com/guilhermedcl/projetoPMI) 
 
-🛬 **url landpage:** [Landpage](https://guilhermedcl.github.io/projetoPMI-II/)
+🛬 **url landpage:** [Landpage](https://guilhermedcl.github.io/projetoPMI/)
 
 📲 PMI II
 -------------------
 
 ⌨️ **url Protótipo (Figma):** [Protótipo Figma](https://www.figma.com/file/NnsU7i3ua3TRxtLkYQJfKG/Prot%C3%B3tipo-naveg%C3%A1vel-APP-PMI?type=design&node-id=0%3A1&mode=design&t=Wi4GQsYcVJkuVpxM-1)
 
-📝 **url Modelagem Sistema:** [Modelagem do Sistema](https://github.com/guilhermedcl/projetoPMI-II/tree/main/diagramas)
+📝 **url Modelagem Sistema:** [Modelagem do Sistema](https://github.com/guilhermedcl/projetoPMI/tree/main/diagramas)
 
 💻 PMI III
 -------------------
