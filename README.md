@@ -32,7 +32,7 @@ Projeto Multidisciplinar Integrador I - IV - ADS- CESUSC - (2023/2024)
 💻 PMI III
 -------------------
 
-🖥️ **Versão do Código no github:** [Código](https://github.com/vinicyusads11/appMiniTakeAndGo)
+🖥️ **Versão do Código no github:** [Código Fonte](https://github.com/vinicyusads11/appMiniTakeAndGo)
 
 🎥 **url vídeo demonstração (código):**
 
