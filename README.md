@@ -20,7 +20,7 @@ Projeto Multidisciplinar Integrador I - IV - ADS- CESUSC - (2023/2024)
 
 🔗 **url github:**  [GitHub](https://github.com/guilhermedcl/projetoPMI) 
 
-🛬 **url landpage:** [Landpage](https://guilhermedcl.github.io/projetoPMI/)
+🛬 **url landpage:** [Landpage](https://guilhermedcl.github.io/PMI/)
 
 📲 PMI II
 -------------------
