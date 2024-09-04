@@ -13,7 +13,7 @@ Projeto Multidisciplinar Integrador I - IV - ADS- CESUSC - (2023/2024)
 
 🧑‍💻👩‍💻 **Equipe:** *Guilherme, Rayner, Róger, Vinicyus*
 
-🛠️ **Recursos/Tecnologias Utilizados:**  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,npm,postman,figma,vscode,windows" width="500"/> ...
+🛠️ **Recursos/Tecnologias Utilizados:**  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,npm,postman,figma,vscode,windows" width="400"/> ...
 
 
 💡 PMI I
