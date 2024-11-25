@@ -1,7 +1,7 @@
-Projeto Multidisciplinar Integrador I - IV - ADS- CESUSC - (2023/2024)
+Projeto Multidisciplinar Integrador I - II - III - IV - ADS- UNICESUSC - (2023/2024)
 
 -------------------
-## Mini Take and Go
+## Mini Take and Go 
 
 
 🙁 **Problema:** *Necessidade de fazer compras em horários não comerciais e tempo desperdiçado com deslocamento até um supermercado;*
@@ -11,7 +11,12 @@ Projeto Multidisciplinar Integrador I - IV - ADS- CESUSC - (2023/2024)
 
 🎁 **Proposta de Valor:** *Aplicativo exclusivo, conectando clientes ao mini mercado digitalmente, oferecendo mais comodidade, agilidade e praticidade para os nossos clientes.*
 
-🧑‍💻👩‍💻 **Equipe:** *Guilherme, Rayner, Róger, Vinicyus*
+🧑‍💻👩‍💻 **Equipe de desenvolvimento:** *Guilherme, Rayner, Róger, Vinicyus*
+
+- <a href="https://github.com/guilhermedcl">github.com/guilhermedcl</a>
+- <a href="https://github.com/rayner27k">github.com/rayner27k</a>
+- <a href="https://github.com/RogerBald">github.com/RogerBald</a>
+- <a href="https://github.com/vinicyusads11">github.com/vinicyusads11</a>
 
 🛠️ **Recursos/Tecnologias Utilizados:**  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,npm,postman,figma,vscode,windows" width="400"/> ...
 
@@ -35,17 +40,15 @@ Projeto Multidisciplinar Integrador I - IV - ADS- CESUSC - (2023/2024)
 
 🖥️ **Versão do Código no github:** [Código Fonte](https://github.com/vinicyusads11/appMiniTakeAndGo)
 
-🎥 **url vídeo demonstração (código):**
-
 💻 PMI IV
 -------------------
 
-🖥️ **Versão do Código no github/heroku/servidor:**
+🖥️ 
 
-🎞️ **url vídeo demonstração (pitch ideia):**
+🎞️ 
 
-🎥 **url vídeo demonstração (aplicação rodando):**
+🎥 
 
 -------------------
 
-📚 **Referências:**
+
